@@ -20,7 +20,7 @@ Si volem crear rols, a la esquerra tenim un botó on hem de possar el nom del ro
 
 [Rol](creausuario.png)
 
-# Administració d'arxius
+## Administració d'arxius
 
 Administrar els arxius és fàcil, pràcticament com si fós un explorador d'arxius del teu ordinador. 
 Per crear o pujar arxius, els pots arrossegar a dins o com indica la imatge. També pots crear directament un document de text.
